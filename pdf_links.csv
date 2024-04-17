@@ -1,0 +1,7 @@
+note,html,id,text,link,show
+slides,01_introduction.html,01-introduction-pdf-01,Download Slides,../../Lecture/01_Session_Intro/01_session_IDS.pdf,yes
+slides with annotation,02_data_management.html,02-data-management-pdf-01,Download Slides,../../Lecture/02_Session_Data/02_Session_IDS_Data.pdf,no
+slides without annotation,02_data_management.html,02-data-management-pdf-02,Download Slides (without annotations),../../Lecture/02_Session_Data/02_Session_IDS_Data_remarks.pdf,yes
+q4r,02_data_management.html,02-data-management-pdf-03,Download <em>q4r</em> batch #1,../../q4r/q4r_session1.pdf,no
+practical class no 1,02_data_management.html,02-data-management-pdf-04,Download practical class No 1,../../Practical Class/01_Gitlab/Assignment1.pdf,yes
+practical class no 2,02_data_management.html,02-data-management-pdf-05,Download practical class No 2,../../Practical Class/02_DataSources/03_Tex/ass2.pdf,no
